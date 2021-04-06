@@ -3,7 +3,7 @@
 //You'll also want to create a null called "CONTROLLER" and add a slider called "padding" and pickwhip for this value, which will control the grid's spacing.
 
 
-padding = thisComp.layer("CONTROLLER").effect("padding")("Slider");     
+padding = {pickwhip to slider on a null controller layer};     
 numberOfColumns = Math.ceil(thisComp.width / padding)+1;
 
 xValue = padding * ((index-1) % numberOfColumns);
