@@ -20,3 +20,4 @@ Right now, I'm storing them in markdown files in the [expressions folder](https:
 - [No Sleep Creative Expression Wizardry](https://docs.nosleepcreative.com/after-effects/expression-wizardry) - A nice wiki filled with good expression tips by Desmond Du.
 - [Expression Docs](https://ae-expressions.docsforadobe.dev/) - General use reference for expressions.
 - [Official Adobe AE Expression Help Page](https://helpx.adobe.com/after-effects/using/expression-language-reference.html) - Official AE Help page on expressions. 
+- [Anatomy of a Path](https://www.motionboutique.com/path-anatomy/) - A great breakdown of how to manipulate path points with expressions.
