@@ -11,7 +11,8 @@ Right now, I'm storing them in markdown files in the [expressions folder](https:
 - [Sample Layermap Brightness](https://github.com/CameronFoxly/AfterEffectsExpressionLibrary/blob/main/expressions/Sample-LayerMap-Luma.md) - Best if used with Grid Layout, this expression samples the luma value of a given layer and uses that value to drive whatever property you apply it to. Basically, it's a custom layer map system like in Trapcode's form. 
 - [Global position of parented layer](https://github.com/CameronFoxly/AfterEffectsExpressionLibrary/blob/main/expressions/global-parented-position.md) - Quick little expression for how to get the global [x,y] position value of a layer that is parented to another layer.
 - [Respecting Aspect Ratio](https://github.com/CameronFoxly/AfterEffectsExpressionLibrary/blob/main/expressions/respecting-aspect-ratio.md) - Returns a Y value based on an X value that maintains a ratio of X:Y that matches the compositions aspect ratio. Great for the mosiac plugin for getting square "pixels"
-- [2d LookAt](https://github.com/CameronFoxly/AfterEffectsExpressionLibrary/blob/main/expressions/2d-lookAt.md) - Effects the rotation of a layer so that it "looks at" another layer in 2D. 
+- [2d LookAt](https://github.com/CameronFoxly/AfterEffectsExpressionLibrary/blob/main/expressions/2d-lookAt.md) - Effects the rotation of a layer so that it "looks at" another layer in 2D.
+- [Posterize Tweens](https://github.com/CameronFoxly/AfterEffectsExpressionLibrary/blob/main/expressions/posterizeTweens.md) - Drops the framerate of a single property, so you can have a single layer playing at a lowerframerate than the comp it's in. Acts like Posterize time, but for a single keyframed property's value.
 
 
 ## Other Helpful Links
